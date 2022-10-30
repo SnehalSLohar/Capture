@@ -14,9 +14,14 @@
 Developed a Responsive website using Next JS and Tailwind CSS.
  Functionalities added -
 ✅Parallax Scrolling.
+
 ✅Linking Google Fonts to _document.js file
+
 ✅Image slider using the Next Js Image Component
+
 ✅Routing in Next.js
+
 ✅Passing Properties down to child components.
+
 ✅Statically imported images & external URL loaded images
  
